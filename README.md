@@ -1,5 +1,4 @@
-![Alt Text](https://media.giphy.com/media/fYjDikIeUz0CA/giphy.gif)
-
+![Tom Brady styrer gamet](https://media.giphy.com/media/fYjDikIeUz0CA/giphy.gif)
 
 
 <!--
