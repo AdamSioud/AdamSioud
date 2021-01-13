@@ -1,5 +1,4 @@
-### www.adamsioud.com 🥺😏🤤⛓😈😇 
-
+############ www.adamsioud.com 
 <!--
 **AdamSioud/AdamSioud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
