@@ -6,7 +6,7 @@
   <a href="#">frone.site</a> |
   <a href="#">lifstil.no</a>
   <br><br>
-  <img src="https://media.giphy.com/media/26tn2q3F0oLQlZZGU/giphy.gif" width="310" height="110" >
+  <img src="https://media.giphy.com/media/26tn2q3F0oLQlZZGU/giphy.gif" width="310" height="100" >
 </p>
 
 <p align="center">
