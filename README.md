@@ -11,7 +11,7 @@
 
 <p align="center">
   <b>DEEP DIVES:</b><br>
-  <a href="#">Panda</a> |
+  <a href="#">Pandas</a> |
   <a href="#">Pytorch</a> |
   <a href="#">Statistics</a>
   <br><br>
