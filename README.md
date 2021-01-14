@@ -1,4 +1,7 @@
 <img align="left" width="250" height="400" src="https://media.giphy.com/media/fYjDikIeUz0CA/giphy.gif">
+<img align="center" width="280" height="400" src="https://media.giphy.com/media/1APdUAzBdlMNMg1JIi/giphy.gif">
+
+
 
 <img align="right" width="250" height="400" src="https://media.giphy.com/media/fYjDikIeUz0CA/giphy.gif">
   
