@@ -5,7 +5,16 @@
   <a href="#">adamsioud.com</a> |
   <a href="#">frone.site</a> |
   <a href="#">lifstil.no</a>
-  <br><br>
+  <br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
+
+<p align="center">
+  <b>WEBSITES:</b><br>
+  <a href="#">adamsioud.com</a> |
+  <a href="#">frone.site</a> |
+  <a href="#">lifstil.no</a>
+  <br>
   <img src="http://s.4cdn.org/image/title/105.gif">
 </p>
 
