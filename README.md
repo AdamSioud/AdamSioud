@@ -1,7 +1,6 @@
-<img align="left" width="200" height="400" src="https://media.giphy.com/media/fYjDikIeUz0CA/giphy.gif">
+<img align="left" width="250" height="400" src="https://media.giphy.com/media/fYjDikIeUz0CA/giphy.gif">
 
-
-
+<h1> Currently just working <h1>
 <!--
 **AdamSioud/AdamSioud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
