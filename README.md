@@ -1,4 +1,4 @@
-<img align="left" width="250" height="400" src="https://media.giphy.com/media/fYjDikIeUz0CA/giphy.gif"> 
+<img align="left" width="280" height="400" src="https://media.giphy.com/media/fYjDikIeUz0CA/giphy.gif"> 
 
 <p align="center">
   <b>WEBSITES:</b><br>
