@@ -14,7 +14,7 @@
   <a href="#">STATITICS</a>
   <br>
   <img src="http://s.4cdn.org/image/title/105.gif">
-  <p> Sure you can save me if you want to! </p>
+  Sure you can save me if you want to!
 </p>
 
 
