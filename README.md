@@ -15,7 +15,8 @@
   <a href="#">Pytorch</a> |
   <a href="#">Statistics</a>
   <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
+  <img src="https://media.giphy.com/media/26tn2q3F0oLQlZZGU/giphy.gif" width="310" height="100" >
+
 </p>
   
   
