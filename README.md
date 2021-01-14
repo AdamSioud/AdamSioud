@@ -2,19 +2,17 @@
 
 <p align="center">
   <b>WEBSITES:</b><br>
-  <br>
   <a href="#">adamsioud.com</a> |
   <a href="#">frone.site</a> |
   <a href="#">lifstil.no</a>
+  <br><br>
   <img src="http://s.4cdn.org/image/title/105.gif">
-  <br>
-  <b>DEEP DIVES:</b><br><br>
+  <b>DEEP DIVES:</b><br>
   <a href="#">PANDA</a> |
   <a href="#">PYTORCH</a> |
   <a href="#">STATITICS</a>
-  <br>
+  <br><br>
   <img src="http://s.4cdn.org/image/title/105.gif">
-  <br>
   Sure you can save me if you want to!
 </p>
 
