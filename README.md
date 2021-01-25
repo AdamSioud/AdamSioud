@@ -5,7 +5,6 @@
   <a href="#">adamsioud.com</a> |
   <a href="#">frone.site</a> |
   <a href="#">strategia.no</a>
-  <br><br>
 <!--  <img src="https://media.giphy.com/media/26tn2q3F0oLQlZZGU/giphy.gif" width="310" height="100" > -->
 </p>
 
