@@ -6,7 +6,7 @@
   <a href="#">frone.site</a> |
   <a href="#">strategia.no</a>
   <br><br>
-  <img src="https://media.giphy.com/media/26tn2q3F0oLQlZZGU/giphy.gif" width="310" height="100" >
+<!--  <img src="https://media.giphy.com/media/26tn2q3F0oLQlZZGU/giphy.gif" width="310" height="100" > -->
 </p>
 
 <p align="center">
@@ -15,12 +15,12 @@
   <a href="#">Pytorch</a> |
   <a href="#">Statistics</a>
   <br><br>
-  <img src="https://media.giphy.com/media/l4JyRrRWMbatj1AVq/giphy.gif" width="310" height="100" >
+<!-- <img src="https://media.giphy.com/media/l4JyRrRWMbatj1AVq/giphy.gif" width="310" height="100" > -->
 
 </p>
   
   
-<p align="center"> Be sure to save me if you want to!</p>
+<!-- <p align="center"> Be sure to save me if you want to!</p> -->
   
 <!--
 **AdamSioud/AdamSioud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
