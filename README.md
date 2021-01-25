@@ -14,9 +14,16 @@
   <a href="#">Pytorch</a> |
   <a href="#">Statistics</a>
 <!-- <img src="https://media.giphy.com/media/l4JyRrRWMbatj1AVq/giphy.gif" width="310" height="100" > -->
-
 </p>
-  
+ 
+
+<p align="center">
+  <b>FRONESITE:</b><br>
+  <a href="#">MLOps</a> |
+  <a href="#">Research</a> |
+  <a href="#">KI</a>
+<!-- <img src="https://media.giphy.com/media/l4JyRrRWMbatj1AVq/giphy.gif" width="310" height="100" > -->
+</p>
   
 <!-- <p align="center"> Be sure to save me if you want to!</p> -->
   
